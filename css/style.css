@@ -7,8 +7,9 @@ section{
     padding-bottom: 150px;
 }
 .banner {
-    background-image: url(/images/shapes/Frame\ 56.jpg.jpg);
+    background-image: url("/images/cover1.jpg");
     background-repeat: no-repeat;
+    background-position: left;
 }
 .head {
     width: 40%;
@@ -45,7 +46,7 @@ section{
     margin-top: 100px;
 }
 .about-section {
-    background-image: url("/images/shapes/Frame\ 59.jpg");
+    background-image: url("/images/cover2.jpg");
     background-repeat: no-repeat;
     margin-top: 100px;
     height: 400px;
